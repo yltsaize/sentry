@@ -1,0 +1,5 @@
+sentry:
+  cleanup:
+    activeDeadlineSeconds: 3600
+  hooks:
+    activeDeadlineSeconds: 3600
